@@ -10,4 +10,4 @@ Requirements for all notebooks: NumPy, pickle, PyTorch 1.5 or greater, PyLab, Sc
 
 Additional requirement for N-body notebook: 2D Quijote density fields; instructions at https://quijote-simulations.readthedocs.io/en/latest/df.html#id1
 
-The data is read in the N-body notebook with training_data.py, line 166; change fname_train and fname_validation if needed depending on how Quijote data is saved.
+The data is read in the N-body notebook with training_data.py, line 166. Quijote patches should be saved in data/patches. If needed, change fname_train and fname_validation depending on how Quijote data is saved, as well as the number of patches and training/validation split.
