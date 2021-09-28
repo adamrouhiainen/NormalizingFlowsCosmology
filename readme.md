@@ -1,6 +1,6 @@
-Notebooks to reproduce results in "Normalizing Flows for Random Fields in Cosmology"
+Notebooks to train and reproduce results in "Normalizing Flows for Random Fields in Cosmology"
 
-rnvp_Gaussian.ipynb gives the Gaussian field and density results, rnvp_Gaussian.ipynb gives the non-Gaussian field results and non-Gaussian measurements, and rnvp_nbody.ipynb gives the N-body results and non-Gaussian measurements.
+train_rnvp_Gaussian.ipynb for the Gaussian fields, train_rnvp_Gaussian.ipynb for the non-Gaussian fields, and train_rnvp_nbody.ipynb for the N-body fields
 
 The hyperparameters easily adjustable for each notebook are n_layers (the number of flow transformations), hidden_sizes (the depth of the CNNs), kernel_size, batch_size, and base_lr.
 
