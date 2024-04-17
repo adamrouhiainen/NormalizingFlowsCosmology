@@ -1,6 +1,6 @@
 Notebooks to train and reproduce results in "Normalizing Flows for Random Fields in Cosmology"
 
-![Animation from base distribution to model output](https://github.com/adamrouhiainen/NormalizingFlowsCosmology/fading.gif)
+![Animation from base distribution to model output](https://github.com/adamrouhiainen/NormalizingFlowsCosmology/blob/main/fading.gif)
 
 train_rnvp_Gaussian.ipynb for the Gaussian fields, train_rnvp_nonGaussian.ipynb for the non-Gaussian fields, and train_rnvp_nbody.ipynb for the N-body fields
 
