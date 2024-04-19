@@ -1,4 +1,4 @@
-Notebooks to train and reproduce results in "Normalizing Flows for Random Fields in Cosmology"
+Notebooks to train and reproduce results in [Normalizing Flows for Random Fields in Cosmology](https://arxiv.org/pdf/2105.12024)
 
 ![Animation from base distribution to model output](https://github.com/adamrouhiainen/NormalizingFlowsCosmology/blob/main/fading.gif)
 
